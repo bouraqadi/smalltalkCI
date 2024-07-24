@@ -698,6 +698,8 @@ problem.
     [opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm).
 - [@pharo-project](https://github.com/pharo-project):
     [pharo-project-proposals](https://github.com/pharo-project/pharo-project-proposals).
+- [@PharoJS](https://github.com/PharoJS):
+    [PharoJS](https://github.com/PharoJS/PharoJS)
 - [@PolyMathOrg](https://github.com/PolyMathOrg):
     [PolyMath](https://github.com/PolyMathOrg/PolyMath).
 - [@SeasideSt](https://github.com/SeasideSt):
